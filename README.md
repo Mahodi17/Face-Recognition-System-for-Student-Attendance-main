@@ -59,7 +59,7 @@ This project is under MIT License - see the [License.txt](https://github.com/its
 
 ## Contact Me 📨
 
-Email : [itsmesamratthapa@gmail.com](mailto:itsmesamratthapa@gmail.com)
+Email : [mahodibilla@gmail.com](mailto:mahodibilla106@gmail.com)
 
 <!-- Back to the top -->
 
